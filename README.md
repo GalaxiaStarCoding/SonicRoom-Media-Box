@@ -1,4 +1,4 @@
-# SonicRoom Media Bot
+# SonicRoom Media Box
 
 A bot that joins a SonicRoom room as a real participant, stays muted until
 told to play something, and responds to chat commands.
